@@ -4,7 +4,7 @@ Summer of Bitcoin code challenge Maximizing profit to a Bitcoin Miner
 
 # Motivation behind the project:
 
-My motivation behind this project was to apply my knowledge and solve a real life problem. This project was asked in the Summer of Bitcoin 2021 challenge and the problem statement was to select optimal transactions producing maximum profit to a bitcoin miner.  
+My motivation behind this project was to apply my knowledge and solve a real life problem. This project was asked in the Summer of Bitcoin challenge and the problem statement was to select optimal transactions producing maximum profit to a bitcoin miner.  
 
 
 # Project Explanation:
